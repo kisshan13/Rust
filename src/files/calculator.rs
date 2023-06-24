@@ -1,7 +1,6 @@
-use core::num;
 use std::io;
 
-fn main() {
+fn calculator() {
     let mut input_one = String::from("");
     let mut input_two = String::from("");
 
