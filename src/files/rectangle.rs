@@ -30,7 +30,7 @@ impl Rectangle {
     }
 }
 
-fn main() {
+fn rectangle() {
     let mut rect = Rectangle{
         width: 10,
         height: 20
