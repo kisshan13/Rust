@@ -1,7 +1,6 @@
-use core::num;
 use std::io;
 
-fn main() {
+fn is_prime() {
     let mut user_input = String::from("");
 
     println!("Please enter a number to check wheather it's a prime or not:");
